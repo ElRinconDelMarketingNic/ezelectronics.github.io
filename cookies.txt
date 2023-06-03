@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.portotheme.com	TRUE	/wordpress/porto/	FALSE	1999999999	woocommerce_items_in_cart	1
+www.portotheme.com	TRUE	/wordpress/porto/	FALSE	1999999999	wp_woocommerce_session_a62262cffa0bff21ed28bf3b793e9fce	t_20af84d1af46096f24d0ea63310137%7C%7C1683921657%7C%7C1683918057%7C%7Cd2955786cd79c5823d6dfd19d1aaebc2
+www.portotheme.com	TRUE	/wordpress/porto/	FALSE	1999999999	yith_wcwl_session_a62262cffa0bff21ed28bf3b793e9fce	%7B%22session_id%22%3A%2266eaa86994b4be8348b95e791f1f6be4%22%2C%22session_expiration%22%3A1686340988%2C%22session_expiring%22%3A1686337388%2C%22cookie_hash%22%3A%2255ae8b88a59a1fd5cccd2e10a55a514b%22%7D
+www.portotheme.com	TRUE	/wordpress/porto/	FALSE	1999999999	woocommerce_cart_hash	870ed96371f893cd1d0f27455ce49ee9
+www.portotheme.com	TRUE	/	FALSE	1999999999	w3tc_referrer	http%3A%2F%2Fwww.portotheme.com%2Fwordpress%2Fporto%2Fshop1%2F
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	XX3n3T7qG8bHRr8TWoDMkfqg0re9fH9lCoeP9aOeH.c-1683749279-0-AYudYhGfmKGH6deiO64+Vy8A6uIfaQehU7tZDW9uj6oem7vQNjGt4T7MrcKIfzYewrukNoyEF56NhRHej6xeAo8=
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+
